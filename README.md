@@ -19,7 +19,9 @@ Output [[1, 2], [3, 4], [5]]
 
 ## Dependencies
 
-NodeJS to run the test harness.
+npm i
+
+then NodeJS to run the moacha tests.
 
 ## Deployment
 
