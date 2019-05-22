@@ -2,7 +2,7 @@
   "name": "twig-challenge",
   "version": "1.0.0",
   "description": "Technical Challenge for Twig Education",
-  "main": "index.js",
+  "main": "",
   "directories": {
     "test": "test"
   },
